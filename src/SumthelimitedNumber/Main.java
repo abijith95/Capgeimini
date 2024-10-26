@@ -2,6 +2,8 @@ package SumthelimitedNumber;
 
 import java.util.Scanner;
 
+// a = 28,b = 31
+// 2 + 8 + 2 + 9 + 3 + 0 + 3 + 1 = 28;
 public class Main {
     public static void main(String[] args) {
 
